@@ -28,7 +28,7 @@ function Tasks() {
     <header className="App-header">
         <br></br><br></br>     
   <div>
-      <div class="neon">Reactjs </div>
+      <div class="neon">React </div>
       <div class="flux">Friends </div>
   </div>
   <div>A fun way to learn reactjs.</div>
