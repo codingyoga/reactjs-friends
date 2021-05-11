@@ -44,7 +44,7 @@ function Tasks() {
               <Link href="https://codesandbox.io/s/modest-pine-89j19?file=/src/App.js" target="_blank" rel="noopener noreferrer" ><CodeIcon></CodeIcon></Link>
           </Paper>
         </Grid>
-        <Grid item xs={3}>
+        <Grid item xs={4}>
           <Paper className={classes.paper}>
               <h5>Task 2</h5>
               <h3>Birthday Picker</h3>
@@ -53,7 +53,7 @@ function Tasks() {
               <Link href="https://codesandbox.io/s/modest-pine-89j19?file=/src/App.js" target="_blank" rel="noopener noreferrer" ><CodeIcon></CodeIcon></Link>
           </Paper>
         </Grid>
-        <Grid item xs={3}>
+        <Grid item xs={4}>
           <Paper className={classes.paper}>
               <h5>Task 3</h5>
               <h3>Cocktail Mocktail</h3>
