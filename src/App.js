@@ -9,6 +9,7 @@ function App() {
       <div class="wrapper">
           <MetaTags>
             <title>React Friends</title>
+            <meta name="google-site-verification" content="MJhYWN9JbSSY5pIUbClzliFfLnAtzGurpsObUzWwr3U" />
             <meta id="meta-description" name="description" content="Fun and Good way to learn Reactjs , HandsOn training with examples." />
             <meta id="og-title" property="og:title" content="MyApp" />
             {/* <meta id="og-image" property="og:image" content="/assets/beer.gif" /> */}
