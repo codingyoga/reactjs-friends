@@ -44,7 +44,7 @@ function Tasks() {
               <Link href="https://codesandbox.io/s/modest-pine-89j19?file=/src/App.js" target="_blank" rel="noopener noreferrer" ><CodeIcon></CodeIcon></Link>
           </Paper>
         </Grid>
-        <Grid item xs={4}>
+        <Grid item xs={3}>
           <Paper className={classes.paper}>
               <h5>Task 2</h5>
               <h3>Birthday Picker</h3>
@@ -53,11 +53,11 @@ function Tasks() {
               <Link href="https://codesandbox.io/s/modest-pine-89j19?file=/src/App.js" target="_blank" rel="noopener noreferrer" ><CodeIcon></CodeIcon></Link>
           </Paper>
         </Grid>
-        <Grid item xs={4}>
+        <Grid item xs={3}>
           <Paper className={classes.paper}>
               <h5>Task 3</h5>
               <h3>Cocktail Mocktail</h3>
-              <h6>Display Cocktail menu in horizontal nav bar and Mocktail menu in vertical nac bar</h6>
+              <h6>Display Cocktail menu in horizontal nav bar and Mocktail menu in vertical nav bar</h6>
               <Link href="https://codesandbox.io/s/new" target="_blank" rel="noopener noreferrer" > <CreateIcon></CreateIcon></Link>&nbsp;
               <Link href="https://codesandbox.io/s/modest-pine-89j19?file=/src/App.js" target="_blank" rel="noopener noreferrer" ><CodeIcon></CodeIcon></Link>
           </Paper>
