@@ -38,8 +38,8 @@ function Tasks() {
         task_des="Create a button to order drink and display drink count" 
         sample_code_link = "https://codesandbox.io/s/modest-pine-89j19?file=/src/App.js" />
 
-        <Eachtask task_num="Task 6" task_heading="Order One More"
-        task_des="Create a button to order drink and display drink count" 
+        <Eachtask task_num="Task 6" task_heading="Side dish for drink"
+        task_des="select dish from list diplayed on UI and display that picture with the drink" 
         sample_code_link = "https://codesandbox.io/s/modest-pine-89j19?file=/src/App.js" />
       </Grid>
     </div>
